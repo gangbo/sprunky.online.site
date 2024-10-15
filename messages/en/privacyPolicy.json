@@ -1,0 +1,34 @@
+{
+  "Metadata": {
+    "title": "Privacy Policy | Sprunky",
+    "description": "Learn about our privacy practices for Sprunky, the interactive music creation game that respects your privacy."
+  },
+  "title": "Privacy Policy",
+  "subtitle": "Your Privacy in Sprunky",
+  "sections": {
+    "informationCollection": {
+      "title": "Information Collection",
+      "content": "Sprunky does not collect any personal information. You can enjoy our interactive music creation game without providing any personal data."
+    },
+    "dataSecurity": {
+      "title": "Data Security",
+      "content": "As we do not collect personal information, there is no user data to secure. Your musical creations remain local to your browser session."
+    },
+    "cookieUsage": {
+      "title": "Cookie Usage",
+      "content": "We use only essential cookies to ensure the proper functioning of Sprunky. These cookies do not store any personal information and are used solely to enhance your gameplay experience."
+    },
+    "policyUpdate": {
+      "title": "Policy Updates",
+      "content": "We may periodically update this privacy policy to reflect changes in our practices or game features. We encourage you to review this policy regularly to stay informed about our privacy practices in Sprunky."
+    },
+    "noLogin": {
+      "title": "No Login Required",
+      "content": "Sprunky is designed for instant play without the need for account creation or login. You can dive into your musical creation adventure directly in your browser, with no personal identification information required."
+    },
+    "advertising": {
+      "title": "Advertising",
+      "content": "In the future, we may incorporate Google Ads into Sprunky. These ads will be subject to Google's privacy policy, and we will update our policy accordingly when this feature is implemented."
+    }
+  }
+}

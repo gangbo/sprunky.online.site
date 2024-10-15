@@ -1,0 +1,38 @@
+{
+  "Metadata": {
+    "title": "Terms of Use | Sprunky",
+    "description": "Discover the guidelines for creating and enjoying music in Sprunky, the interactive music creation game."
+  },
+  "title": "Terms of Use",
+  "subtitle": "Your Composition for a Harmonious Sprunky Experience",
+  "sections": {
+    "acceptance": {
+      "title": "Accepting the Composition",
+      "content": "By diving into Sprunky, you're agreeing to follow our house rules. Think of it as picking up your virtual instrument - you're committing to the full musical experience!"
+    },
+    "userBehavior": {
+      "title": "Studio Etiquette",
+      "content": "In our virtual music studio, good behavior is as important as good music. Play fair, respect your fellow musicians, and keep the creative space harmonious. Any disruptive behavior might result in you being removed from the session."
+    },
+    "disclaimer": {
+      "title": "The Rhythm of Creation",
+      "content": "Sprunky can get as intense as a real jam session. We're not responsible if you feel overwhelmed by complex compositions or competitive play. Remember, it's just a game - don't let it throw you off beat!"
+    },
+    "modification": {
+      "title": "Changing the Tune",
+      "content": "We might remix these terms occasionally, just like we update our musical elements. Continuing to play after changes means you're in harmony with the new version of our terms."
+    },
+    "noAccount": {
+      "title": "No Backstage Pass Needed",
+      "content": "Sprunky is an open mic night - no account required! Jump right into music creation from your browser. Just remember, without an account, your musical masterpieces and achievements might not be saved for next time."
+    },
+    "intellectualProperty": {
+      "title": "Our Musical Score",
+      "content": "Everything in Sprunky - from the vibrant visuals to the engaging game mechanics - is our original composition. Please don't try to copy, share, or remix our creative elements without permission from the composers (that's us) first."
+    },
+    "advertising": {
+      "title": "Sponsored Performances",
+      "content": "In the future, we may introduce advertisements to Sprunky, similar to sponsors at a concert. These will be clearly marked and won't interfere with your music creation experience. By using Sprunky, you agree to the potential presence of these advertisements."
+    }
+  }
+}
